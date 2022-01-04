@@ -6,6 +6,7 @@ int totalDistance;
 double totalTime;
  //Freddy class
 
+
 	public void setHop1(int distance1, double restTime1)
 	{
 		totalDistance=distance1;

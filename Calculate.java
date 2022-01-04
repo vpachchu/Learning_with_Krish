@@ -7,8 +7,7 @@ public class Calculate{
 		int totalDistance=0,d1=5,d2=3,d3=1;
 		int hopCount=0;
 		
-		
-			
+					
 			Frog f1=new Frog();
 				
 				//System.out.println("Total Distance "+f1.getDistance()+"m");
